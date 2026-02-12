@@ -78,7 +78,12 @@ Cash Register
   * Remove the last item of previous_transaction from array
     * Ensure price reflects correctly
     * Ensure items reflects correctly
-  * If no transactions in array print “There is no discount to apply.”void_last_transaction()
+  * If no transactions in array print “There is no discount to apply.”
+* void_last_transaction()
+  * Remove the last item of previous_transaction from the array.
+    * Ensure the price reflects correctly.
+    * Ensure items reflect correctly.
+  * If no transactions are in the array, print “There is no transaction to void.”
 
 #### Step 5: Push feature branch and open a PR on GitHub
 
